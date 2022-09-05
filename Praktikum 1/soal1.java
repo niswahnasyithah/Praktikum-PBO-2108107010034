@@ -19,14 +19,3 @@ import java.util.Scanner;
         System.out.println("Total Biaya Pembelian Sudah Dipotong Diskonnya Menjadi : " + total);
     }
     }
-
-
-
-/*public class praktikum {
-    public static void main(String[] args) { 
-
-        int Harga = Integer.parseInt(args[0]);
-        int Hasil = nilai1 + nilai2;
-        System.out.println("Hasil " +nilai1+ " + " +nilai2+ " = " + hasil);
-        } 
-}*/
